@@ -1,3 +1,3 @@
-# Ads AI Panel Pro v2.13
+# Ads AI Panel Pro v2.14 (Full)
 
-FastAPI + Shopify + Meta CAPI entegrasyonu.
+FastAPI + Shopify + Meta CAPI panel.

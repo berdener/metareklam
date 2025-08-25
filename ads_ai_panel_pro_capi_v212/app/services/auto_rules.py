@@ -1,1 +1,1 @@
-# service: auto_rules.py
+# placeholder for auto_rules.py

@@ -1,1 +1,1 @@
-# service: shopify.py
+# placeholder for shopify.py
